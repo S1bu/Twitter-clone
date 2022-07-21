@@ -1,2 +1,2 @@
 ﻿# twitter-clone
-This a clone of Twitter 
+This is a clone of Twitter 
