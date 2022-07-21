@@ -1,0 +1,250 @@
+html{
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+}
+*{
+
+}
+
+body{
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+/*******The right section******/
+.Right-section{
+margin-left: 8px;
+
+}
+
+.search{
+    width: 100%;
+    border: 1px solid rgb(185, 185, 185);
+    background-color: rgba(0,0,0,0);
+    border-radius: 15px;
+    width: 400px;
+    margin-top:10px;
+
+   
+}
+
+.search-holder{
+    background-color:white;
+    width: 100%;
+    position: fixed;
+    top: 0;
+   
+    
+}
+.search-bar{
+    background-color: white;
+    border:white;
+    margin-left:20px;
+    padding: 5px;
+}
+.search bi{
+  margin-left: 10px;
+}
+/***trend section***/
+.trends{
+    margin-top:60px;
+    margin-bottom: 10px;
+    border:1px solid rgb(243, 243, 243);
+    border-radius: 15px;
+    width: 400px;
+    background-color: rgb(243, 243, 243);
+}
+.content{
+    margin-left:10px;
+}
+.country{
+    font-size: 11px;
+}
+.subject{
+    font-size:13px;
+    margin-top:0;
+}
+/*****who to fllow***/
+.follow{
+    width: 400px;
+    border: 1px solid rgb(243, 243, 243);
+    background-color: rgb(243, 243, 243);
+    border-radius:15px;
+}
+.follow-content{
+    margin-left: 10px;
+}
+.follow-pic img{
+    border:1px solid white;
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+
+}
+.follow-font{
+    font-size:13px;
+}
+
+.follow-btn{
+   padding-top: 5px;
+   border-radius: 100px;
+   border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.ownership{
+    margin-left:30px;
+}
+.more{
+    float: right;
+    margin-right: 8px;
+}
+/********************************/
+/*******************************MIDDEL SECTION*******************************/
+.middle-section{
+    border-left: 1px solid rgb(185, 185, 185);
+    border-right: 1px solid rgb(185, 185, 185);
+    height:10000px;
+    margin-left: 100px;
+    width: 560px;
+
+}
+.user{
+    color: grey;
+    font-size: 14px;
+}
+.add-feed img{
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+.add-feed{
+    border: none;
+}
+.show{
+    text-align: center;
+}
+.show a{
+    text-align: center;
+    color: rgb(29, 155, 240);
+    text-decoration:none;
+    font-size: 15px;
+    
+}
+.p-p img{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right:15px;
+    margin-top:0;
+}
+.thread img{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right:15px;
+    margin-top: 20px;
+}
+.thread a{
+    margin-top: 50px;
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+    
+}
+.content-sec{
+    margin-top: 1px;
+}
+.space{
+    margin-left: 2px;
+    color: grey;
+    font-size: 14px;
+}
+ .icon2{
+    margin-left:25%;
+ }
+ .icon3{
+    float: right;
+ }
+ .edge{
+    float: right;
+ }
+ .content-icons{
+    margin-top:5px;
+ }
+ .count{
+    margin-left: 10px;
+ }
+ .add-icons{
+    margin-left: 50px;
+    color: rgb(29, 155, 240);
+ }
+ .add-icon2 a{
+    margin-left:15px;
+    color: rgb(29, 155, 240);
+ }
+.add-icon3 a{
+    text-decoration: none;
+    font-weight: 700;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    float: right;
+    color: white;
+    background-color:rgb(29, 155, 240) ;
+    padding:3px 9px 3px 9px;
+    border: 1px solid rgb(29, 155, 240) ;
+    border-radius: 20px;
+    margin-bottom: 3px;
+}
+ .notice a{
+    text-decoration: none;
+    margin-left:60px;
+    color: rgb(29, 155, 240);
+    
+ }
+
+ .content-icons a{
+    text-decoration: none;
+    color: grey;
+ }
+ 
+ .firsticon:hover{
+    color: rgb(29, 155, 240);
+    text-shadow: 0 0 5px rgb(29, 155, 240);
+ }
+ 
+ .secondicon :hover{
+    color: rgb(105, 157, 27);
+    text-shadow:0 0 5px  rgb(105, 157, 27);
+ }
+ .thirdicon :hover{
+    color: rgb(243, 19, 123);
+    text-shadow:0 0 5px rgb(243, 19, 123);
+ }
+/*******************************Left SECTIO*******************************/
+.left-section{
+    position: fixed;    
+    height: 100px;
+}
+
+.left-section a{
+   text-decoration: none;
+   color: black;
+}
+
+.mi{
+width: 30px;
+height: 30px;
+margin-left: 70px
+}
+
+
+.col{
+    margin: 0;
+}
+ 
+ 
+/**********************************/
